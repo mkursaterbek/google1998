@@ -1,0 +1,77 @@
+.logo {
+    margin: 0 43%;
+}
+
+.searchbar {
+    width: 20%;
+}
+
+.center {
+    text-align: center;
+    /* margin-top: 12px; */
+    background: rgb(199, 199, 199);
+}
+.center2 {
+    text-align: center;
+    /* margin-top: 12px; */
+    background: rgb(104, 219, 207);
+}
+
+.asd {
+    display: inline-block;
+}
+
+.mb0 {
+    margin-bottom: 0;
+}
+
+.bg {
+    background: rgb(147, 209, 238);
+}
+
+a {
+    display: block;
+}
+
+p {
+    margin-bottom: 0;
+}
+
+#main {
+    position: relative;
+}
+
+#div1 {
+    margin-top: 2px;
+    position: absolute;
+    width:29% ;
+    height: 100px;
+    text-align: center;
+}
+
+#div2 {
+    margin-top: 2px;
+    position: absolute;
+    left: 632px;
+    width: 20%;
+    height: 100px;
+    text-align: center;
+}
+
+#div3 {
+    margin-top: 2px;
+    position: absolute;
+    right: 0;
+    width: 50%;
+    height: 100px;
+    text-align: center;
+
+}
+
+.son {
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    margin: 1px;
+}
+
